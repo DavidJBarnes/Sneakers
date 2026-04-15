@@ -1,2 +1,2 @@
 # Sneakers
-Prompts for the agents
+Prompts 'n personas for the agents
